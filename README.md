@@ -1,3 +1,6 @@
 # blautenslager.github.io
 
-I will put more stuff here eventually.
+Places I have worked: 
+Northrop Grumman
+3M
+AidData (William and Mary)
